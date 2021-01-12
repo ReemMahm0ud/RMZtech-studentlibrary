@@ -1,0 +1,1 @@
+<h1>contatcs</h1><?php /**PATH C:\wamp64\www\llibrary\resources\views/contatcs.blade.php ENDPATH**/ ?>
